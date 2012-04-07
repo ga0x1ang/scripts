@@ -1,0 +1,4 @@
+some useless scripts ...
+
+<b>linkremover</b> - parse an csv file and get group the urls by ips
+<b>link-removal</b> - walk through all files in a directory, and replace a specfic string
