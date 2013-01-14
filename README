@@ -1,4 +1,5 @@
 some useless scripts ...
 
-<b>linkremover</b> - parse an csv file and get group the urls by ips
-<b>link-removal</b> - walk through all files in a directory, and replace a specfic string
+**linkremover** - parse an csv file and get group the urls by ips
+**link-removal** - walk through all files in a directory, and replace a specfic string
+**sys-size-viewer** - I'm always forgetting the size of different data types ...
